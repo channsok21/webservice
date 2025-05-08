@@ -1,0 +1,7 @@
+com\setec\channsok\taxcalculation\exceptionhandling\GlobalExceptionHandler.class
+com\setec\channsok\taxcalculation\dto\IncomeTexResponse.class
+com\setec\channsok\taxcalculation\TaxCalculationApplication.class
+com\setec\channsok\taxcalculation\model\TaxCalculation.class
+com\setec\channsok\taxcalculation\dto\IncomeTexRequest.class
+com\setec\channsok\taxcalculation\repository\TaxCalculationRepo.class
+com\setec\channsok\taxcalculation\service\IncomeTaxService.class
